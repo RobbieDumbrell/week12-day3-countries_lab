@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.country-flag {
+    width: 50%;
+}
+
+.country-languages {
+    padding-left: 0;
+}
+
+.country-languages li {
+    list-style-type: none;
+}
