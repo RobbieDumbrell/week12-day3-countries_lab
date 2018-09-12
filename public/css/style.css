@@ -1,9 +1,33 @@
 body {
     text-align: center;
+    background-color: paleturquoise;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    margin-top: 0;
+    padding: 20px;
+}
+
+.country-region-header, .country-languages-header {
+    background-color: black;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.country-region {
+    text-decoration: underline;
 }
 
 .country-flag {
     width: 50%;
+    margin: 20px;
 }
 
 .country-languages {
